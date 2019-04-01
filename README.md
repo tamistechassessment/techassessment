@@ -1,6 +1,6 @@
 # techassessment
 Tech assessment for SoFi
-java version 1.8.0_201
+Note: used java version 1.8.0_201
 
 How to run tests:
 1 - Build Maven project from cloned repo
